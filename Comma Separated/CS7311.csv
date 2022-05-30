@@ -1,0 +1,22 @@
+Course_id,Name,Criteria,Rating1,Rating2,Rating3,Out of
+CS7311,Artificial Intelligence Advanced,Problem Solving,"35 to >25.0 pts
+Very Good
+The student has complete understanding of the given problem and excellent ability to solve and present the outcome.","25 to >17.0 pts
+Good
+The student has minimal understanding of the given problem and with minimal ability to solve and present the outcome","17 to >0 pts
+Poor
+The student lacks in understanding for the given problem and needs guidance to solve and present the outcome.",35
+CS7311,Artificial Intelligence Advanced,Analysis,"40 to >30.0 pts
+Very Good
+The student demonstrates very accurate, very extensive, and in-depth analysis of given problem statement. Particular execution of different algorithms like searching, sorting, graph traversal etc. All key aspects identified, related, and rigorously evaluated","30 to >20.0 pts
+Good
+Only modest evaluation beyond facts. Some potential connections are missing","20 to >0 pts
+Poor
+Very weak progression of ideas. Many key aspects are missed out",40
+CS7311,Artificial Intelligence Advanced,Logical Ability,"35 to >25.0 pts
+Very Good
+Students has the excellent hands on the analytical tool. Output shown by students indicates the ability to customize and minimalized the operation in a logical sequence for a given problem.","25 to >17.0 pts
+Good
+Students has the satisfactory hands on the analytical tool. Output shown by students indicates the ability to customize the operation in a logical sequence for some of given problem need couple of reworks","17 to >0 pts
+Poor
+Students has very less understanding of the analytical tool and unable to customize the operation in a logical sequence for many problem statement",35

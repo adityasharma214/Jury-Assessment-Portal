@@ -1,0 +1,23 @@
+Course_id,Name,Criteria,Rating1,Rating2,Rating3,Out of
+LA7301 ,Entrepreneurship,Creative ability,"35 to >25.0 pts
+Very Good
+Excellent skill of representation of ideas, be itmanual drawing and rendering or digitalrepresentation. Excellent skill of makingmodels and prototypes using commonmaterials and processes and workingmanually and easily available hand andmachine tools.","25 to >17.0 pts
+Good
+Reasonable skill of drawings,model making andrepresentation. The outputlacks professional finish.Depends mostly on technologysolutions for both, drawing andmodel making","17 to >0 pts
+Poor
+Drawing skils(manual anddigital) arepoor. Cannotconceive andconstructmodels andprototypes.",35
+LA7301 ,Entrepreneurship,Effectivity,"40 to >30.0 pts
+Very Good
+The ideas and solutions are extremelyeffective and fully (or mostly) solves thedesign challenges from a total 360degree perspective. The solutions havea great potential to be readilycommercialised or put into use finding avery wide acceptability amongst users.","30 to >20.0 pts
+Good
+The ideas and solutionsare good and solves thedesign challengesreasonably well. Someadditional work may benecessary to polish theideas to be acceptablewidely.","20 to >0 pts
+Poor
+Although the ideas andsolutions solve some partof the design problem,many other aspects areunanswered and mostprobably will require a lot ofeffort to make the solutionreally useful.",40
+LA7301,Entrepreneurship,Skills,"35 to >25.0 pts
+Very Good
+Extremely creative solutionswith truly ""out-of-box"" thinking.Some ideas and solutions aretruly innovative and thoughtprovoking.","25 to >17.0 pts
+Good
+Very good creativity. Although, nottotally innovative but has the abilityto combine ideas from a differentparadigm to propose new solutions.","17 to >0 pts
+Poor
+Low level of creativity.Often solutions arecommon and mundanewhich are often knownby most.
+",35
